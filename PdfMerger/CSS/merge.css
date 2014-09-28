@@ -1,0 +1,76 @@
+﻿
+
+
+td {
+    padding: 5px;
+}
+
+table {
+    border-spacing: 5px;
+    border-collapse: separate;
+}
+
+ajax__fileupload_selectFileButton {
+    color: #333;
+    background: #fff;
+    border: 1px solid #adadad;
+    border-radius: 4px;
+}
+
+
+.ajax__fileupload_selectFileButton:hover {
+    content: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+
+.ajax__fileupload_fileItemInfo .pendingState {
+    color: #313131 !important;
+}
+
+.ajax__fileupload_fileItemInfo .removeButton {
+    color: #a94442;
+    background: #f2dede;
+    border: 1px solid #ebccd1;
+    border-radius: 4px;
+    font-size: 13px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ajax__fileupload_uploadbutton {
+    color: #dff0d8;
+    background: #3c763d;
+    border: 1px solid #2D582E;
+    border-radius: 4px;
+    width: 33%;
+}
+
+.ajax__fileupload_dropzone {
+    font-size: 24px;
+    background: #f1f1f1;
+    border-radius: 4px;
+    border-color: #ccc;
+    /*background-image: url("../Images/dropzone.png");
+     background-repeat: no-repeat;*/
+}
+
+
+.ajax__fileupload_progressBar {
+    width: 66% !important;
+    background: #fff;
+}
+
+.ajax__fileupload_fileItemInfo .errorState {
+    background-color: #9B0000;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#ajaxUpload1 {
+    width:100%;
+}
+.tab{
+    width:100%;
+}
