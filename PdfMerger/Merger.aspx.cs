@@ -34,38 +34,7 @@ public partial class Merger : System.Web.UI.Page
         {
 
 
-            //PdfReader pdfAddenda = new PdfReader(DOcUload.PostedFile.InputStream);
-            //MemoryStream streamAddenda = new MemoryStream();
-            //PdfStamper stamperAddenda = new PdfStamper(pdfAddenda, streamAddenda);
-            //stamperAddenda.Close();
-            //pdfAddenda.Close();
-            //streamAddenda.Flush();
-            //streamAddenda.Close();
-            //byte[] addenda = streamAddenda.ToArray();
-
-
-            //List<byte[]> pdfs = new List<byte[]>();
-            //pdfs.Add(contract);
-            //pdfs.Add(addenda);
-            //String result = Path.GetTempPath() + "output.pdf";
-
-            //Document document = new Document();
-            ////create PdfCopy object
-            //PdfCopy copy = new PdfCopy(document, new FileStream(result, FileMode.Create));
-            ////open the document
-            //document.Open();
-            ////PdfReader variable
-            //PdfReader reader;
-            //for (int i = 0; i < 2; i++)
-            //{
-            //    //create PdfReader object
-            //    reader = new PdfReader(pdfs[i]);
-            //    //merge combine pages
-            //    for (int page = 1; page <= reader.NumberOfPages; page++)
-            //        copy.AddPage(copy.GetImportedPage(reader, page));
-
-            //}
-            ////close the document object
+            
             //document.Close();
 
            
