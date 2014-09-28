@@ -44,10 +44,8 @@ public partial class Merger : System.Web.UI.Page
             //byte[] addenda = streamAddenda.ToArray();
 
 
-            //List<byte[]> pdfs = new List<byte[]>();
-            //pdfs.Add(contract);
-            //pdfs.Add(addenda);
-            //String result = Path.GetTempPath() + "output.pdf";
+            Adding random text in staging
+            
 
             //Document document = new Document();
             ////create PdfCopy object
